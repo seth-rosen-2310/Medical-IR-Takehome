@@ -1,4 +1,4 @@
-# parambil_takehome
+# Info Extraction Takehome
 
 ## Walkthrough - Breif Description:
 1. Takes a pdf of variable size and for each page in the pdf extract the text
